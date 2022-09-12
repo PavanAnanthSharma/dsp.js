@@ -7,7 +7,7 @@ It includes many functions for signal analysis and generation, including
 Oscillators (sine, saw, square, triangle), Window functions (Hann, Hamming, etc), 
 Envelopes (ADSR), IIR Filters (lowpass, highpass, bandpass, notch), FFT and DFT 
 transforms, Delays, Reverb.
-
+ 
 ## Modules
 
 * `DFT(bufferSize, sampleRate)`: Discrete Fourier Transform
